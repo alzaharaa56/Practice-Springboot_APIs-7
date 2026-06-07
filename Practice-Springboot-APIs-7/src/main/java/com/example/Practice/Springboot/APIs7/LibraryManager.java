@@ -37,6 +37,8 @@ public class LibraryManager {
                 iterator.remove();
                 System.out.println("Member " + memberId + " deleted successfully.");
                 return true;
+
+
             }
         }
         System.out.println("No matching member found for ID: " + memberId);

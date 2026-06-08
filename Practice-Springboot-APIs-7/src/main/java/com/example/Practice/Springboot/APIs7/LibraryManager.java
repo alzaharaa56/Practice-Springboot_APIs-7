@@ -1,5 +1,7 @@
 package com.example.Practice.Springboot.APIs7;
 
+import com.example.Practice.Springboot.APIs7.Entities.LibraryMember;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 

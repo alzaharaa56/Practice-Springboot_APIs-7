@@ -1,5 +1,6 @@
-package com.example.Practice.Springboot.APIs7;
+package com.example.Practice.Springboot.APIs7.Controllers;
 
+import com.example.Practice.Springboot.APIs7.services.ProductService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

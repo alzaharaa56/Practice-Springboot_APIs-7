@@ -1,7 +1,8 @@
-package com.example.Practice.Springboot.APIs7;
+package com.example.Practice.Springboot.APIs7.services;
 
 
 
+import com.example.Practice.Springboot.APIs7.Entities.EventRegistration;
 import org.springframework.stereotype.Service;
 import java.util.*;
 
